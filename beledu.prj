@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>katalon_project</name>
+   <name>beledu</name>
    <tag></tag>
-   <UUID>cce89aae-daae-44e6-8278-efa331918033</UUID>
+   <UUID>c051ce8c-7246-4215-b8ac-e88ca5d9f487</UUID>
    <migratedVersion>5.7.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>833802de-cb73-4a87-bc6f-22be3bb64f9a</testCaseGuid>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>0d5b108d-1bfd-4d15-8a11-f3c70e1faa9c</id>
+      <masked>false</masked>
+      <name>demo_usn</name>
+   </variable>
+   <variable>
+      <defaultValue>'abc123'</defaultValue>
+      <description></description>
+      <id>b267568f-2a28-45d3-ae80-5a0eea970917</id>
+      <masked>false</masked>
+      <name>demo_pwd</name>
+   </variable>
+</TestCaseEntity>
