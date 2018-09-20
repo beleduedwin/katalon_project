@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuit1" time="18" tests="3" failures="0" errors="0">
+   <testsuite name="TestSuit1" tests="3" failures="0" errors="0" time="18" timestamp="2018-09-20 14:48:00" hostname="ib - WINIB-OSOON0HOE" id="Test Suites/TestSuit1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ib\\Katalon Studio\\katalon_project\\Reports\\TestSuit1\\20180920_144754"/>
+         <property name="logFiles" value="C:\\Users\\ib\\Katalon Studio\\katalon_project\\Reports\\TestSuit1\\20180920_144754\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ib - WINIB-OSOON0HOE"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.7.1.1"/>
+         <property name="browser" value="Chrome 68.0.3440.106"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="8f57f2b3b182b64503123f8718df8d51"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase4" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[2018-09-20 14:48:00 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+2018-09-20 14:48:01 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/TestHomePage' successfully
+
+2018-09-20 14:48:01 - [TEST_CASE][PASSED] - Test Cases/TestHomePage: Test Cases/TestHomePage
+
+2018-09-20 14:48:01 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-20 14:48:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-20 14:48:04 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2018-09-20 14:48:05 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2018-09-20 14:48:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-09-20 14:48:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-09-20 14:48:06 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TestHomePage' successfully
+
+2018-09-20 14:48:06 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/TestLoginPage' successfully
+
+2018-09-20 14:48:06 - [TEST_CASE][PASSED] - Test Cases/TestLoginPage: Test Cases/TestLoginPage
+
+2018-09-20 14:48:06 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2018-09-20 14:48:06 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2018-09-20 14:48:06 - [TEST_STEP][PASSED] - setText: Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2018-09-20 14:48:06 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2018-09-20 14:48:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-09-20 14:48:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-09-20 14:48:07 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TestLoginPage' successfully
+
+2018-09-20 14:48:07 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is present
+
+2018-09-20 14:48:07 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '5'
+
+2018-09-20 14:48:07 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is present
+
+2018-09-20 14:48:07 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-20 14:48:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase4" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[2018-09-20 14:48:07 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+2018-09-20 14:48:07 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/TestHomePage' successfully
+
+2018-09-20 14:48:08 - [TEST_CASE][PASSED] - Test Cases/TestHomePage: Test Cases/TestHomePage
+
+2018-09-20 14:48:08 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-20 14:48:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-20 14:48:10 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2018-09-20 14:48:11 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2018-09-20 14:48:11 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-09-20 14:48:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-09-20 14:48:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TestHomePage' successfully
+
+2018-09-20 14:48:12 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/TestLoginPage' successfully
+
+2018-09-20 14:48:12 - [TEST_CASE][PASSED] - Test Cases/TestLoginPage: Test Cases/TestLoginPage
+
+2018-09-20 14:48:12 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2018-09-20 14:48:12 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2018-09-20 14:48:12 - [TEST_STEP][PASSED] - setText: Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2018-09-20 14:48:12 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2018-09-20 14:48:12 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-09-20 14:48:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-09-20 14:48:12 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TestLoginPage' successfully
+
+2018-09-20 14:48:12 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is present
+
+2018-09-20 14:48:12 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '5'
+
+2018-09-20 14:48:13 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is present
+
+2018-09-20 14:48:13 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-20 14:48:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TestCase4" classname="Test Cases/TestCase4" status="PASSED">
+         <system-out><![CDATA[2018-09-20 14:48:13 - [TEST_CASE][PASSED] - Test Cases/TestCase4: Test Cases/TestCase4
+
+2018-09-20 14:48:13 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/TestHomePage' successfully
+
+2018-09-20 14:48:13 - [TEST_CASE][PASSED] - Test Cases/TestHomePage: Test Cases/TestHomePage
+
+2018-09-20 14:48:13 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-09-20 14:48:15 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-09-20 14:48:15 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2018-09-20 14:48:17 - [MESSAGE][PASSED] - Navigate to 'https://katalon-demo-cura.herokuapp.com/' successfully
+
+2018-09-20 14:48:17 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-09-20 14:48:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-09-20 14:48:17 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TestHomePage' successfully
+
+2018-09-20 14:48:17 - [TEST_STEP][PASSED] - callTestCase: Call Test Case 'Test Cases/TestLoginPage' successfully
+
+2018-09-20 14:48:17 - [TEST_CASE][PASSED] - Test Cases/TestLoginPage: Test Cases/TestLoginPage
+
+2018-09-20 14:48:17 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2018-09-20 14:48:17 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Username_username'
+
+2018-09-20 14:48:17 - [TEST_STEP][PASSED] - setText: Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2018-09-20 14:48:18 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_Password_password'
+
+2018-09-20 14:48:18 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-09-20 14:48:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-09-20 14:48:18 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/TestLoginPage' successfully
+
+2018-09-20 14:48:18 - [TEST_STEP][PASSED] - verifyElementPresent: Object 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is present
+
+2018-09-20 14:48:18 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '5'
+
+2018-09-20 14:48:18 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is present
+
+2018-09-20 14:48:18 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-09-20 14:48:19 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-09-20 14:48:00 - [TEST_SUITE][PASSED] - TestSuit1: Test Cases/TestCase4]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

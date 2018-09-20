@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestComplet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>833802de-cb73-4a87-bc6f-22be3bb64f9a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>112b441f-cdbd-4707-a475-998fa2a3f598</id>
+      <masked>false</masked>
+      <name>demo_usn</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34f63636-de42-4978-92f9-713945c11f20</id>
+      <masked>false</masked>
+      <name>demo_pwd</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuitComplet,Chrome 68.0.3440.106,,2018-09-20 15:05:23,2018-09-20 15:06:01,"37,849s",FAILED
+,,,,,,
+Test Cases/TestComplet,Chrome 68.0.3440.106,,2018-09-20 15:05:23,2018-09-20 15:05:38,"14,637s",FAILED
+"Statement - assert demo_usn != """"",Chrome 68.0.3440.106,,2018-09-20 15:05:24,2018-09-20 15:05:24,"0,013s",PASSED
+"Statement - assert demo_pwd != """"",Chrome 68.0.3440.106,,2018-09-20 15:05:24,2018-09-20 15:05:24,"0,007s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:05:24,2018-09-20 15:05:29,"5,321s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:05:29,2018-09-20 15:05:30,"0,962s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:05:30,2018-09-20 15:05:36,"5,891s",FAILED
+,,,,,,
+Test Cases/TestComplet,Chrome 68.0.3440.106,,2018-09-20 15:05:38,2018-09-20 15:05:47,"8,845s",PASSED
+"Statement - assert demo_usn != """"",Chrome 68.0.3440.106,,2018-09-20 15:05:38,2018-09-20 15:05:38,"0,004s",PASSED
+"Statement - assert demo_pwd != """"",Chrome 68.0.3440.106,,2018-09-20 15:05:38,2018-09-20 15:05:38,"0,004s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:05:38,2018-09-20 15:05:43,"4,989s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:05:43,2018-09-20 15:05:44,"0,822s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:05:44,2018-09-20 15:05:45,"0,990s",PASSED
+,,,,,,
+Test Cases/TestComplet,Chrome 68.0.3440.106,,2018-09-20 15:05:47,2018-09-20 15:06:00,"13,408s",FAILED
+"Statement - assert demo_usn != """"",Chrome 68.0.3440.106,,2018-09-20 15:05:47,2018-09-20 15:05:47,"0,002s",PASSED
+"Statement - assert demo_pwd != """"",Chrome 68.0.3440.106,,2018-09-20 15:05:47,2018-09-20 15:05:47,"0,005s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:05:47,2018-09-20 15:05:52,"4,954s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:05:52,2018-09-20 15:05:52,"0,732s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:05:52,2018-09-20 15:05:58,"5,697s",FAILED

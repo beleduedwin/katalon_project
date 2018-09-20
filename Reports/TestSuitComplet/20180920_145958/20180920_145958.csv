@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuitComplet,Chrome 68.0.3440.106,,2018-09-20 15:00:04,2018-09-20 15:00:26,"21,917s",FAILED
+,,,,,,
+Test Cases/TestComplet,Chrome 68.0.3440.106,,2018-09-20 15:00:04,2018-09-20 15:00:10,"5,857s",FAILED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:00:04,2018-09-20 15:00:10,"5,351s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:00:10,2018-09-20 15:00:10,"0,230s",FAILED
+,,,,,,
+Test Cases/TestComplet,Chrome 68.0.3440.106,,2018-09-20 15:00:10,2018-09-20 15:00:16,"6,483s",FAILED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:00:10,2018-09-20 15:00:16,"6,393s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:00:16,2018-09-20 15:00:16,"0,083s",FAILED
+,,,,,,
+Test Cases/TestComplet,Chrome 68.0.3440.106,,2018-09-20 15:00:16,2018-09-20 15:00:25,"8,577s",FAILED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:00:16,2018-09-20 15:00:25,"8,479s",PASSED
+callTestCase,Chrome 68.0.3440.106,,2018-09-20 15:00:25,2018-09-20 15:00:25,"0,086s",FAILED
